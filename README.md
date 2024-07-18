@@ -47,7 +47,7 @@ make
 ## 二. 使用 transformers 库中的 ViT
 
 - 即本项目的 `vision_transformer_2` 目录，进入该目录
-- 参考 https://huggingface.co/google/vit-base-patch16-224，也做了改动（下载相关文件到本地，然后加载模型）
+- 参考 https://huggingface.co/google/vit-base-patch16-224 ，也做了改动（下载相关文件到本地，然后加载模型）
 - 在安装有 `torch` 的环境的基础上，安装必要的库：
 
 ```bash
