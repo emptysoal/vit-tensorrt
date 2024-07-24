@@ -1,6 +1,6 @@
 # TensorRT 部署 ViT
 
-1. 这里有 2 种方式构建 `ViT` 网络模型，分别为：
+1. 这里有 2 种方式构建 `ViT` 网络模型，分别是：
 
 - `PyTorch` 构建 `ViT` 网络
 - 使用 `transformers` 库中的 `ViT`
