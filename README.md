@@ -9,7 +9,7 @@
 
 ## 一. PyTorch 构建 ViT 网络
 
-- 即本项目的 `vision_transformer` 目录，进入该目录
+- 即本项目的 `vision_transformer` 目录，进入到该目录
 
 - 代码来源：[vision_transformer](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/vision_transformer)，对其中的 `predict.py` 做了少许修改
 - `pytorch` 推理：
